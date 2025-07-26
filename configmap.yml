@@ -6,4 +6,4 @@ metadata:
 data:
   # URL: "http://backend-service.backend.svc.cluster.local:3001"
   #REACT_APP_BACKEND_URL: "http://a5e56aa464dd0915897b4893722f-1096174577.ap-northeast-3.elb.amazonaws.com:3001"
-  #REACT_APP_BACKEND_URL: "http://backend-service.backend.svc.cluster.local:3001"
+  REACT_APP_BACKEND_URL: "http://backend-service.backend.svc.cluster.local:3001"
